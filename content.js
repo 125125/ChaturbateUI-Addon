@@ -15,5 +15,7 @@ $("#timerdiv").append('<div onclick="timer(1);" style="cursor:pointer;background
 $("#timerdiv").append('<div onclick="stoptime();" style="cursor:pointer;background-color:grey;border-radius:5px;color: white;padding: 5px 10px;border: 1px solid #999;float: right;margin-left: 5px;">Stoptime</div>');
 $("#id_tip_amount").after("<br><label>Loop Times:</label><input type='text' id='loop_amount' name='loop_amount' value='100' style='width:50px;'><br>");
 $(".tip_popup form").after("<button onclick='speedtip($(\"#loop_amount\").val());' style='float:left;margin-top:10px;background:green;color:#fff;font-weight:bold;padding: 6px 56px;border:1px solid #b1b1b1;border-radius: 6px;'>Speedtip</button>");
-document.querySelector('.formborder').style.display = 'table-cell';
-document.querySelector('.formborder').style.paddingBottom = '10px';
+$(".formborder").css({
+  display:'table-cell',
+  paddingBottom:'10px'
+});
