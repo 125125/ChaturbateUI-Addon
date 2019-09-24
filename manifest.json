@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "ChaturbateUI",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://chaturbate.com/*",
+        "http://chaturbate.com/*",
+        "http://testbed.cb.dev/*",
+        "https://testbed.cb.dev/*"
+      ],
+      "js": ["jquery-3.4.1.min.js", "content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "favicon.png",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
