@@ -11,3 +11,5 @@ Added additional functions to chaturbate user interface in an extension
   <li>Once you find the folder open it and it will be loaded in as an extension</li>
   <li>Refresh page on chaturbate and you will see new Userinterface</li>
 </ul>
+<h1>Created By</h1>
+<b>Tok124</b>
