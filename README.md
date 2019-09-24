@@ -1,4 +1,4 @@
-# ChaturbateUI-Addon
+# ChaturbateUI-Addon-v1.0.0
 Added additional functions to chaturbate user interface in an extension
 <h1>Functions:</h1>
 <ul>
@@ -19,6 +19,8 @@ Added additional functions to chaturbate user interface in an extension
 </ul>
 <h1>Created By:</h1>
 <b>Tok124</b>
+<h1>Comming Features</h1>
+in version 1.0.1 users will have the opptunity to add their own gifs to the list that will be send when clicking the send gifs button.
 <h1>IMPORTANT INFORMATION</h1>
 The send gifs button will most likely not work unless you're a moderator or broadcaster since it will be seen as spam. But it has been tested as a moderator and it does work properly, 
 The gifs that are being sent are :goaltipshowpp :SATISFIED :follow123 :rate59
