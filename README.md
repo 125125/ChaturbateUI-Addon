@@ -9,4 +9,5 @@ Added additional functions to chaturbate user interface in an extension
   <li>Click Load unpacked extension</li>
   <li>Navigate to the downloaded folder</li>
   <li>Once you find the folder open it and it will be loaded in as an extension</li>
+  <li>Refresh page on chaturbate and you will see new Userinterface</li>
 </ul>
